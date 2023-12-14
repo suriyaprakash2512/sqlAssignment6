@@ -1,0 +1,7 @@
+C:\phase 3\day6\exercise 6\SqlAss6\bin\Debug\SqlAss6.exe.config
+C:\phase 3\day6\exercise 6\SqlAss6\bin\Debug\SqlAss6.exe
+C:\phase 3\day6\exercise 6\SqlAss6\bin\Debug\SqlAss6.pdb
+C:\phase 3\day6\exercise 6\SqlAss6\obj\Debug\SqlAss6.csproj.AssemblyReference.cache
+C:\phase 3\day6\exercise 6\SqlAss6\obj\Debug\SqlAss6.csproj.CoreCompileInputs.cache
+C:\phase 3\day6\exercise 6\SqlAss6\obj\Debug\SqlAss6.exe
+C:\phase 3\day6\exercise 6\SqlAss6\obj\Debug\SqlAss6.pdb
